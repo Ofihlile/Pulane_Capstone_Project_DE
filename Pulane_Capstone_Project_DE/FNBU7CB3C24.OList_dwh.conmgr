@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="FNBU7CB3C24.OList_dwh"
+  DTS:DTSID="{C1EE83EF-E35F-4823-971B-F2CEAB877A91}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=FNBU7CB3C24;Initial Catalog=OList_dwh;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-Pulane_Capstone_Project_DE-{C1EE83EF-E35F-4823-971B-F2CEAB877A91}FNBU7CB3C24.OList_dwh;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
